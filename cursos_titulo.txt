@@ -1,0 +1,177 @@
+IIC2072 Taller de Producción de Hipermedios 10
+IIC2100 Taller de Herramientas Computacionales para Ingenieria 10
+IIC2110 Estructura y Respresentac Dato 8
+IIC2120 Sist Procesamiento de Datos 8
+IIC2121 Tópicos de Redes de Datos 10
+IIC2122 Arquitectura de Software Aplicada 10
+IIC2132 Estructura y Representacion de Datos 10
+IIC2144 Desarrollo Disciplinado de Software 10
+IIC2152 Taller Ingenieria de Software 10
+IIC2160 Principios de Leng de Program 8
+IIC2162 Estrategias de Desarrollo de Software 10
+IIC2170 Algoritmos en Teoria de Grafos 8
+IIC2173 Arquitectura de Sistemas de Software 10
+IIC2210 Organizacion de Computadores 8
+IIC2212 Logica para Ciencias de la Computacion 10
+IIC2213 Lógica para Ciencias de la Computación 10
+IIC2220 Program en Lenguaje Assembler 6
+IIC2221 Programacion Assembler 8
+IIC2253 Introducción a la Computación Cuántica 10
+IIC2283 Diseño y Análisis de Algoritmos 10
+IIC2311 Introd a los Sist Operativos 10
+IIC2312 Principios de Lenguaje de Programacion 10
+IIC2320 Sistemas de Administr de Datos 8
+IIC2344 Laboratorio de Arquitectura de Computadores 10
+IIC2345 Laboratorio de Arquitectura de Computadores 10
+IIC2411 Introd al Procesamiento de Datos 10
+IIC2422 Tecnologia de Bases de Datos I 10
+IIC2440 Procesamiento de Datos Masivos 10
+IIC2512 Redes de Computadores 10
+IIC2515 Taller de Desarrollo de Aplicaciones Web 10
+IIC2521 Fundamentos de Seguridad Informatica 10
+IIC2522 Taller de Seguridad Informatica 10
+IIC2533 Métodos Analíticos Avanzados 10
+IIC2572 Desarrollo de Aplicaciones para Teléfonos Móviles en J2me 10
+IIC2622 Taller de Inteligencia Artificial 10
+IIC2632 Computacion Evolutiva 10
+IIC2642 Computacion Emergente 10
+IIC2685 Robótica Móvil 10
+IIC2714 Fundamentos de Procesamiento de Imágenes 10
+IIC2722 Taller Tecnologia de la Informacion 10
+IIC2732 Modelos de Procesos y Datos 10
+IIC2733 Modelos de Procesos 10
+IIC2734 Taller de Automatizacion de Procesos de Negocio 10
+IIC2742 Arquitectura de Sistemas de Informacion 10
+IIC2752 Estrategia y Tecnologias de Informacion 10
+IIC2763 Adopción de Tecnologías de Información 10
+IIC2764 Conocimiento, Cultura y Tecnología 10
+IIC2815 Taller de Emprendimientos Con Software 10
+IIC2910 Taller de Grado 20
+IIC2914 Animacion por Computadora 10
+IIC2970 Seminario de Computacion 8
+IIC2990 Trabajo Personal Dirigido 5
+IIC2991 Trabajo Personal Dirigido 4
+IIC2992 Trabajo Personal Dirigido 5
+IIC2994 Investigacion o Proyecto 10
+IIC2995 Investigacion o Proyecto 8
+IIC2996 Investigacion o Proyecto 8
+IIC2997 Investigacion o Proyecto 8
+IIC2998 Investigacion o Proyecto 20
+IIC2999 Investigacion o Proyecto 16
+IIC3103 Taller de Integración 10
+IIC3104 Taller de Integración (Proyecto de Título) 10
+IIC3113 Gestión de Proyectos de Tecnologías de Información 10
+IIC3122 Arquitectura de Software 10
+IIC3130 Computación Orientada a Servicios 10
+IIC3131 Topicos Avanzados de Redes de Datos 10
+IIC3132 Realidad Virtual 10
+IIC3140 Estrategias de Desarrollo de Software 10
+IIC3143 Desarrollo de Software 10
+IIC3144 Desarrollo de Software (Proyecto de Título) 10
+IIC3150 Teoria Automatas Lenguajes Formal 8
+IIC3152 Control de Calidad y Test Software 10
+IIC3154 Gestion de Una Fabrica de Software 10
+IIC3156 Manejo del Cambio en Una Fabrica de Software 10
+IIC3162 Taller de Multimedios 10
+IIC3164 Informatica Educativa 10
+IIC3170 Algoritmos en Teoria de Grafos 8
+IIC3172 Metodos Formales de Ingenieria de Software 10
+IIC3174 Modelacion Visual de Software 10
+IIC3182 Interfaces Humano Computador 10
+IIC3192 Topicos Avanzados Ingenieria Software 10
+IIC3194 Metodologia Emergentes en Ingenieria de Software 10
+IIC3210 Arquitecturas Avanzadas de Comput 8
+IIC3222 Diseno y Analisis de Algoritmos 10
+IIC3230 Algoritmos en Teoría de Grafos 10
+IIC3232 Fundamentos Logicos de la Computacion 10
+IIC3235 Semantica Programacion en Logica 10
+IIC3242 Complejidad Computacional 10
+IIC3260 Teoria de Modelos Finitos 10
+IIC3263 Teoría de Modelos Finitos 10
+IIC3272 Criptomonedas y Contratos Inteligentes 10
+IIC3284 Algoritmos y Aleatoriedad 10
+IIC3320 Bases de Datos II 8
+IIC3330 Comunicacion de Datos 8
+IIC3340 Estruc Internas de Bases de Datos 8
+IIC3350 Bases de Datos II 8
+IIC3352 Semantica de Leng de Programacion 10
+IIC3362 Automatizacion del Razonamiento 10
+IIC3372 Programacion Concurrente 10
+IIC3373 Programación Concurrente 10
+IIC3380 Taller de Aplicaciones en Plataformas Moviles 10
+IIC3413 Implementación de Sistemas de Base de Datos 10
+IIC3422 Estructuras Internas de Bases de Datos 10
+IIC3423 Big Data 10
+IIC3432 Topicos Avanzados en Bases de Datos 10
+IIC3433 Metodologias Emergentes en Bases 10
+IIC3510 Logica y Represent de Conocimien 8
+IIC3512 Comunicacion de Datos 10
+IIC3515 Taller de Emprendimientos Con Software 10
+IIC3523 Sistemas Distribuídos 10
+IIC3524 Topicos Avanzados de Sistemas Distribuidos 10
+IIC3530 Sistemas Expertos 8
+IIC3532 Modelacion de Sistemas Computacionales 10
+IIC3533 Computación de Alto Rendimiento 10
+IIC3534 Computación de Alto Rendimiento 10
+IIC3542 Evaluacion y Afinamiento de Sistemas Computacionales 10
+IIC3552 Sistemas Embebidos de Tiempo Real 10
+IIC3562 Taller de Groupware 10
+IIC3572 Ingenieria de Software Distribuida 10
+IIC3582 Tecnologia y Aplicaciones del Www 10
+IIC3583 Diseno Avanzado de Aplicaciones Web 10
+IIC3584 Taller de Desarrollo Colaborativo de Sitios Web 10
+IIC3585 Diseño Avanzado de Aplicaciones Web 10
+IIC3592 Fundamentos de Comercio Electronico 10
+IIC3612 Inteligencia Artificial 10
+IIC3620 Modelacion de Sist Computacionale 8
+IIC3622 Sistemas Expertos 10
+IIC3623 Ingenieria del Conocimiento 10
+IIC3632 Lógica y Representación del Conocimiento 10
+IIC3633 Sistemas Recomendadores 10
+IIC3635 Métodos Estadísticos para el Aprendizaje de Máquina 10
+IIC3640 Modelos Gráficos Probabilísticos 10
+IIC3642 Automatizacion del Razonamiento 10
+IIC3652 Automatizacion del Aprendizaje 10
+IIC3662 Gestion del Conocimiento 10
+IIC3672 Inferencia de Conocimiento 10
+IIC3682 Vision por Computador 10
+IIC3684 Robotica Movil 10
+IIC3685 Robótica Móvil (Capstone) 10
+IIC3686 Creacion de Videojuegos 10
+IIC3690 Reconocimiento de Patrones 10
+IIC3692 Topicos Avanzados en Inteligencia Artificial 10
+IIC3693 Reconocimiento Visual Con Aprendizaje de Máquina 10
+IIC3695 Tópicos Avanzados en Inteligencia de Máquina 10
+IIC3696 Tópicos Avanzados en Aprendizaje de Máquina 10
+IIC3697 Aprendizaje Profundo 10
+IIC3703 Gestión de Operaciones Ti 10
+IIC3712 Gestion de Tecnologia de Informacion 10
+IIC3713 Fundamentos de Procesamiento de Imagenes 10
+IIC3714 Fundamentos de Procesamiento de Imágenes 10
+IIC3720 Taller de Codigo Abierto 10
+IIC3722 Informatica y Productividad 10
+IIC3733 Vision por Computador 10
+IIC3742 Estrategias y Tecnologias de Informacion 10
+IIC3743 Estrategias y Tecnologías de Información 10
+IIC3745 Testing 10
+IIC3752 Tecnologias para Inteligencia de Negocios 10
+IIC3753 Tecnologias para Gestion Estrategica 10
+IIC3755 Taller de Innovacion Con Tecnologias de Informacion 10
+IIC3757 Minería de Procesos 10
+IIC3763 Formacion de Imagenes 10
+IIC3764 Sistemas de Tutoría Inteligente 10
+IIC3773 Laboratorio de Resonancia Magnética 10
+IIC3783 Procesamiento Avanzado de Imagenes 10
+IIC3793 Audicion por Computador 10
+IIC3794 Recostrucción y Restauración de Imágenes 10
+IIC3800 Tópicos en Ciencia de la Computación 10
+IIC3810 Tópicos Avanzados en Teoría de la Computación 10
+IIC3812 Fundamentos de Gobierno Electrónico 10
+IIC3824 Impacto Social de las Tecnologías de Información 10
+IIC3882 Metodos Orientados a Objetos 10
+IIC3894 Búsqueda Eficiente de Imágenes y Videos 10
+IIC3900 Aprendizaje Automatico 10
+IIC3912 Topicos Avanzados de Gráfica Computacional 10
+IIC3942 Mercados de Infraestructuras 10
+IIC3964 Desarrollo de Sistemas Complejos (Proyecto de Título) 10
+IIC3984 Búsqueda Eficiente de Imágenes y Videos 10
