@@ -3,14 +3,18 @@ from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup
 from typing import List
 from sys import stdout
+from webdriver_manager.chrome import ChromeDriverManager
+from time import sleep
 
 
 class WebScrapper:
     def __init__(self, url: str):
         self.url = url
-        # TODO: fix this hardcoded path to make it portable to all OS
-        self.driver = webdriver.Chrome(
-            "/usr/lib/chromium-browser/chromedriver")
+        try:
+            self.driver = webdriver.Chrome(
+                "/usr/lib/chromium-browser/chromedriver")
+        except:
+            self.driver = webdriver.Chrome(ChromeDriverManager().install())
         self.courses_list = []
         self.course_searched = None
 
@@ -26,9 +30,10 @@ class WebScrapper:
         stdout.write("WebScrapper@send_input: Sending input...\n")
         try:
             if strategy == "id":
-                input_field =self.driver.find_element_by_id(input_identifier)
+                input_field = self.driver.find_element_by_id(input_identifier)
             elif strategy == "name":
-                input_field = self.driver.find_element_by_name(input_identifier)
+                input_field = self.driver.find_element_by_name(
+                    input_identifier)
             elif strategy == "class_name":
                 input_field = self.driver.find_element_by_class_name(
                     input_identifier)
@@ -64,15 +69,9 @@ class WebScrapper:
                 % str(e))
 
     def check_existance(self, class_name: str) -> bool:
-        # TODO: fix this
-        try:
-            self.driver.find_element_by_class_name(class_name)
-        except NoSuchElementException as e:
-            stdout.write(
-                "WebScrapper@submit: The following error ocurred when finding element and submitting:\n"
-                % str(e))
+        if self.driver.page_source.find(class_name) != -1:
             return False
-        finally:
+        else:
             return True
 
     def finish(self) -> None:
