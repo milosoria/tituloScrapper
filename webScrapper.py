@@ -1,10 +1,7 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
-from bs4 import BeautifulSoup
-from typing import List
 from sys import stdout
 from webdriver_manager.chrome import ChromeDriverManager
-from time import sleep
 
 
 class WebScrapper:
@@ -40,7 +37,8 @@ class WebScrapper:
             else:
                 # default to xpath hardcoded
                 input_field = self.driver.find_element_by_xpath(
-                    "/html/body/table/tbody/tr/td/div/div/div/div[2]/div[1]/div/div[4]/div/div[2]/div/form/table/tbody/tr[2]/td[2]/input")
+                    "/html/body/table/tbody/tr/td/div/div/div/div[2]/div[1]/div/div[4]/div/div[2]/div/form/table/tbody/tr[2]/td[2]/input"
+                )
             input_field.clear()
             input_field.send_keys(input)
         except NoSuchElementException as e:

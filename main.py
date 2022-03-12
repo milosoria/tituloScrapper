@@ -5,7 +5,7 @@ from selenium import webdriver
 
 
 if __name__ == "__main__":
-    print_banner(title="Titulo Scrap")
+    print_banner(title="Titulo Scrappper")
 
     with open("cursos_titulo.txt", "r") as f:
         courses = dict(map(lambda x: x.split(" ", 1), f.readlines()))
