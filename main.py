@@ -1,7 +1,6 @@
 from webScrapper import WebScrapper
 from sys import stdout
 from banner import print_banner
-from selenium import webdriver
 
 
 if __name__ == "__main__":
